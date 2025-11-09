@@ -1,0 +1,10 @@
+# venv files
+bin
+include
+lib
+share
+etc
+pyvenv.cfg
+
+# os specific
+.DS_Store
