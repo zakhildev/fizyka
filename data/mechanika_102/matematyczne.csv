@@ -1,4 +1,4 @@
-length;time;interval_amount
-0.4;12.6373;10
-0.3;10.956;10
-0.2;8.932;10
+length,time,interval_amount
+0.4,12.6373,10
+0.3,10.956,10
+0.2,8.932,10
