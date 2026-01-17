@@ -1,4 +1,3 @@
-# Generated: Sun Nov  9 13:21:48 CET 2025
 anyio==4.11.0
 appnope==0.1.4
 argon2-cffi==25.1.0
@@ -11,7 +10,6 @@ babel==2.17.0
 beautifulsoup4==4.14.2
 bleach==6.3.0
 certifi==2025.10.5
-cffi==1.18.0.dev0
 charset-normalizer==3.4.4
 comm==0.2.3
 contourpy==1.3.3
@@ -23,12 +21,11 @@ executing==2.2.1
 fastjsonschema==2.21.2
 fonttools==4.60.1
 fqdn==1.5.1
-greenlet==0.4.13
 h11==0.16.0
-hpy==0.9.1.dev61+g79fb330d
 httpcore==1.0.9
 httpx==0.28.1
 idna==3.11
+intersect==1.3.2
 ipykernel==7.1.0
 ipython==9.6.0
 ipython_pygments_lexers==1.1.1
@@ -110,4 +107,3 @@ webcolors==25.10.0
 webencodings==0.5.1
 websocket-client==1.9.0
 widgetsnbextension==4.0.15
-intersect==1.3.2
